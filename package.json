@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "@textlint/editor-script-template",
+  "name": "@korosuke613/my-textlint-rules",
   "version": "1.0.0",
   "description": "@textlint/editor script template",
   "scripts": {
@@ -10,8 +10,13 @@
     "@textlint/website-generator": "^0.10.4"
   },
   "dependencies": {
-    "textlint": "^11.9.0",
+    "@proofdict/textlint-rule-proofdict": "^3.1.1",
+    "textlint": "^12.0.0",
     "textlint-filter-rule-comments": "^1.2.2",
-    "textlint-rule-no-todo": "^2.0.1"
+    "textlint-rule-no-exclamation-question-mark": "^1.1.0",
+    "textlint-rule-no-todo": "^2.0.1",
+    "textlint-rule-preset-ja-spacing": "^2.1.3",
+    "textlint-rule-preset-ja-technical-writing": "^6.0.0",
+    "textlint-rule-spellcheck-tech-word": "^5.0.0"
   }
 }
