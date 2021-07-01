@@ -1,3 +1,10 @@
+# @korosuke613/my-textlint-rules
+
+https://korosuke613.github.io/my-textlint-rules/
+
+The following is the README of @textlint/editor-script-template.
+---
+
 # @textlint/editor-script-template
 
 This template for [@textlint/editor](https://github.com/textlint/editor) worker scripts.
